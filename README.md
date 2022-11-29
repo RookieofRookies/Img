@@ -1,3 +1,3 @@
 # Img
 
-It is to stroe pic for Typora
+It is a repo to store pic for Typora
